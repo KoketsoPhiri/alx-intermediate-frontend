@@ -1,0 +1,26 @@
+# Node.js dependencies
+/node_modules
+node_modules/
+# Build artifacts for Tailwind (often named 'dist' or 'build')
+# If you configure Tailwind to output to a different folder, adjust this.
+/dist
+/build
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Environment variables (if you start using them later)
+.env
+.env.local
+
+# Operating System specific files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# IDE specific files (optional - uncomment if you want to ignore)
+# .vscode/      # VS Code settings
+# .idea/        # WebStorm/IntelliJ IDEA settings
+# *.iml         # IntelliJ IDEA project file
