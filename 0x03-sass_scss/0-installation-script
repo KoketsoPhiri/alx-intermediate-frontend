@@ -1,0 +1,14 @@
+# Step 1: Open terminal and navigate to project
+cd path\to\alx-intermediate-frontend
+mkdir 0x03-sass_scss
+cd 0x03-sass_scss
+
+# Step 2: Install Node.js from https://nodejs.org/ (LTS version)
+
+# Step 3: Verify installation
+node -v
+npm -v
+
+# Step 4: Initialize npm and install sass
+npm init -y
+npm install sass
